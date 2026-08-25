@@ -3,6 +3,6 @@
   programFiles = {
     "main.lua",
   },
-  programName = "dawid",
+  programName = "CCApp1",
   version = "1.0",
 }

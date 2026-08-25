@@ -1,6 +1,6 @@
 {
   version = 1.0,
-  main = "main.lua",
+  mainFile = "main.lua",
   programName = "App1",
   programFiles = {
     "main.lua",

@@ -1,1 +1,8 @@
-DawidCisinski/CCApp@1.1@pawinstall.lua@
+{
+  version = 1.0,
+  main = "main.lua",
+  programName = "App1",
+  programFiles = {
+    "main.lua",
+  },
+}

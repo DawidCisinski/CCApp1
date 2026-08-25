@@ -1,8 +1,6 @@
 {
-  version = 1.0,
+  programName = "CośTam",
   mainFile = "main.lua",
-  programName = "App1",
-  programFiles = {
-    "main.lua",
-  },
+  programFiles = { "main.lua" },
+  version = "1.0",
 }

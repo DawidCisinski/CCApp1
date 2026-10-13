@@ -8,5 +8,6 @@
     "test2.txt"
   },
   libraries = {
+    "test.txt"
   }
 }

@@ -2,6 +2,7 @@
   mainFile = "main.lua",
   programFiles = {
     "main.lua",
+    "test.txt"
   },
   programName = "CCApp1",
   version = "1.0",

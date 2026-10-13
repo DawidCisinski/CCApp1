@@ -8,6 +8,5 @@
     "test2.txt"
   },
   libraries = {
-    "lib.lua"
   }
 }
